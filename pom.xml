@@ -76,10 +76,7 @@
                         </configuration>
                     </execution>
 
-                </executions>     
-
-                </executions>
-
+              
                 </executions>
             </plugin>
         </plugins>
